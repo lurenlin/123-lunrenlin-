@@ -1,0 +1,54 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.box{
+	overflow: hidden;
+}
+.bra{
+	height: .6rem;
+	background-color: #ccc;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+.con{
+    background-color:#6d6d6d;
+}
+.p{
+    text-align:center;
+	line-height:3rem;
+	color:#fff;
+	font-size:1.7rem;
+	margin-top: 1rem;
+}
+.containers{
+    width:98%;
+	margin:0 auto;
+	margin-top: 5rem;
+}
+.con_p{
+    font-weight:bold;
+	color:black;
+	margin-top:6.5rem;
+	font-size:1.8rem;
+}
+.con_smn{
+    color:gray;
+}
+.con_pp{
+    margin-top:1rem;
+    text-indent:2em;
+    line-height:2.6rem;
+	font-size:1.6rem;
+	letter-spacing:2px;
+	
+}
+.com{
+    background-color:#6d6d6d;
+	height:4rem;
+	margin-top:1rem;
+}

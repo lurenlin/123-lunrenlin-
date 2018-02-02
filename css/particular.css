@@ -1,0 +1,74 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{
+	width: 100%;
+
+}
+.box{
+	overflow: hidden;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+}
+.con{
+    background-color:#ececec;
+}
+.container-fulid h4{
+	text-align: center;
+}
+.containers{
+    width:98%;
+	margin:0 auto;
+	padding-bottom: 0.7rem;
+}
+.table{
+    margin:0;
+	margin-top:5.5rem;
+}
+.tab_tr{
+    background-color:#37a1ec;
+}
+.tab_tr > th{
+    text-align:center;
+}
+.info > td{
+    text-align:center;  
+}
+.active > td{
+    text-align:center;  
+}
+.bra{
+    background-color:#ececec;
+	height:1rem;
+}
+
+.con_ys > h5{
+    font-weight:bold;
+	border-left: 3px solid #e31020;
+	padding-left:0.5rem;
+	color: black;
+}
+hr{
+    margin-top:0px; 
+    margin-bottom:0px; 
+	border-top: 1px solid #ccc;
+}
+.con_sp{
+    margin-left:0.9rem;
+	margin-top:0.8rem;
+	margin-bottom: 2rem;
+}
+.con_p{
+    line-height:2rem;
+}
+.com{
+    background-color:#ececec;
+	height:3rem;
+	margin-top: 2rem;
+}
+
+/*尾部*/

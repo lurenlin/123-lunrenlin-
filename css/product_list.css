@@ -1,0 +1,92 @@
+.box{
+    width: 98%;
+    margin: 0 auto;
+}
+body{
+    height: 20000px;
+}
+.line{
+    border-top:1px dashed #ccc;
+}
+.header-top{
+    margin-left: -.2rem;
+    width: 200%;
+    background-color:#666; ;
+    height:1rem;
+    line-height:1rem;
+    font-size:.6rem;
+    color:#fff;
+}
+
+.content .content-finance{
+
+}
+.content h2 {
+    font-size: .8rem;
+    border-left: 3px solid #e31020;
+    padding-left: .5rem;
+}
+
+.content h6 {
+    font-size: .8rem;
+    color: #222;
+    font-weight: normal;;
+}
+
+.content .content-finance ul li {
+    padding: .6rem;
+}
+
+.content .content-finance ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.content .content-finance .content-finance-left {
+    width: 30%;
+    font-size: .7rem;
+}
+
+.content .content-finance .content-finance-left b {
+    display: block;
+    color: #e31020;
+    margin: .6rem 0;
+}
+
+.content .content-finance .content-finance-left i {
+    font-style: normal;
+    color: #555;
+}
+
+.content .content-finance .content-finance-right div {
+    margin: .4rem 0;
+}
+
+.content .content-finance .content-finance-right span {
+    width: 70%;
+    font-size: .6rem;
+    color: #222;
+    padding: .2rem .4rem;
+    border: 1px solid #ccc;
+    margin-left: .4rem;
+    border-radius: 12px;
+}
+
+.content .content-finance .content-finance-right i {
+    font-size: .7rem;
+    display: block;
+    color: #555;
+    font-style: normal;
+    margin-left: .4rem;
+}
+.content .content-more {
+    text-align: center;
+}
+
+.content .content-more a {
+    font-size: 1rem;
+    display: inline-block;
+    color: #555;
+    margin-bottom: .5rem;
+}

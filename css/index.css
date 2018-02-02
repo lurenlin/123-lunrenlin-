@@ -1,0 +1,273 @@
+.gap{
+    height: .5rem;
+    width: 104%;
+    margin-left: -2%;
+    background-color: #eee;
+}
+.box {
+    background-color: #eee;
+    overflow: hidden;
+    height: 10000px;
+}
+
+.header .header-top {
+    background-color: #e31020;
+}
+
+.player {
+    background-color: #fff;
+    height: 10rem;
+    overflow: hidden;
+}
+
+.player ul li a {
+    display: block;
+    height: 10rem;
+    overflow: hidden;
+}
+
+.player ul li img {
+    height: 10rem;
+    width: 100%;
+    display: inline-block;
+}
+
+.nav {
+    padding: .4rem 0;
+    background-color: #fff;
+}
+
+.nav a {
+    overflow: hidden;
+    margin: 0 .31rem;
+    text-align: center;
+    float: left;
+    width: 30%;
+    height: 4.5rem;
+    color: #555;
+    font-size: .8rem;
+}
+
+.nav i {
+    display: inline-block;
+    width: 100%;
+    height: 3rem;
+    background: url("../images/show.png") no-repeat 50% 50%;
+    background-size: 3rem 3rem;
+
+}
+
+.nav a .nav-tow {
+    background: url("../images/time.png") no-repeat 50% 50%;
+    display: inline-block;
+    background-size: 3rem 3rem;
+}
+
+.nav .nav-three {
+    display: inline-block;
+    background: url("../images/news.png") no-repeat 50% 50%;
+    background-size: 3rem 3rem;
+}
+
+.nav span {
+    display: block;
+}
+
+/*主体内容*/
+.content {
+    background-color: #fff;
+    padding: .3rem .2rem;
+    margin-top: .5rem;
+}
+
+.content .content-finance{
+
+}
+.content h2 {
+    font-size: .8rem;
+    border-left: 3px solid #e31020;
+    padding-left: .5rem;
+}
+
+.content h6 {
+    font-size: .8rem;
+    color: #222;
+    font-weight: normal;;
+}
+
+.content .content-finance ul li {
+    padding: .6rem;
+}
+
+.content .content-finance ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.content .content-finance .content-finance-left {
+    width: 30%;
+    font-size: .7rem;
+}
+
+.content .content-finance .content-finance-left b {
+    display: block;
+    color: #e31020;
+    margin: .6rem 0;
+}
+
+.content .content-finance .content-finance-left i {
+    font-style: normal;
+    color: #555;
+}
+
+.content .content-finance .content-finance-right div {
+    margin: .4rem 0;
+}
+
+.content .content-finance .content-finance-right span {
+    width: 70%;
+    font-size: .6rem;
+    color: #222;
+    padding: .2rem .4rem;
+    border: 1px solid #ccc;
+    margin-left: .4rem;
+    border-radius: 12px;
+}
+
+.content .content-finance .content-finance-right i {
+    font-size: .7rem;
+    display: block;
+    color: #555;
+    font-style: normal;
+    margin-left: .4rem;
+}
+
+.content .content-more {
+    text-align: center;
+}
+
+.content .content-more a {
+    font-size: 1rem;
+    display: inline-block;
+    color: #555;
+    margin-bottom: .5rem;
+}
+
+.content .content-activity {
+    padding: .5rem 0 0 0;
+}
+.content .content-activity .content-activity-core{
+    overflow:hidden;
+    margin-top: .6rem;
+}
+.content .content-activity-core-left img{
+    width: 6rem;
+    height: 6rem;
+}
+.content .content-activity .content-activity-core .content-activity-core-right{
+    width: 65%;
+}
+.content .content-activity .content-activity-core .content-activity-core-right p{
+    height:1.7rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    color:#555;
+    font-size:.6rem;
+}
+.content .content-activity .content-activity-core .content-activity-core-right div span{
+    display: inline-block;
+    text-align: center;
+    font-size:.6rem;
+    padding:.3rem;
+    background-color: #e31020;
+    border-radius:12px;
+    margin-left: .4rem;
+    margin-top: .2rem;
+    color:#fff;
+}
+/*新闻*/
+.content .content-new ul li{
+
+}
+.content .content-new .content-new-right{
+    margin-left: .4rem;
+    width: 60%;
+}
+.content .content-new .content-new-right h6{
+    height: 5rem;
+    font-family:'微软雅黑';
+}
+.content .content-new .content-new-right h6 span{
+    height: 2.8rem;
+    font-size: 1rem;
+    display: inline-block;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    color:#555;
+
+}
+.content .content-new .content-new-right .content-new-right-text{
+    color:#999;
+    font-size:.65rem;
+}
+.content .content-new .content-new-right .content-new-right-text i{
+    float:right;
+    text-align:center;
+    font-style: normal;
+}
+/*底*/
+.footer{
+
+}
+.footer .footer-nav {
+    padding: .3rem 0;
+    margin-left: -.3rem;
+    width: 107%;
+    background-color: #666;
+    height: 1.5rem;
+
+}
+.footer .footer-phone{
+    padding: .5rem;
+    color:#333;
+    font-size:.7rem;
+    line-height: 1.6rem;
+    background-color: #fff;
+}
+
+.footer .footer-nav div{
+    float:left;
+    text-align:center;
+    width: 24%;
+    height: 1.5rem;
+    line-height: 1.5rem;
+}
+.footer .footer-nav div a{
+    display: inline-block;
+    width: 100%;
+    border-right:1px solid #fff;
+    color:#fff;
+    font-family:'微软雅黑';
+    font-size: .7rem;
+}
+.footer .footer-icp{
+    padding: .6rem 0;
+    font-size:.6rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+

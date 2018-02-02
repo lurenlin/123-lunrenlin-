@@ -1,0 +1,82 @@
+.box {
+    overflow: hidden;
+}
+
+.wrap {
+    width: 98%;
+    margin: 0 auto;
+}
+
+.header .header-top {
+    background-color: #0bb559;
+}
+.header .img{
+    width: 100%;
+    height:10rem;
+    background:url("../images/zhao.png") no-repeat ;
+    background-size:100%;
+}
+.content {
+    margin-top: .5rem;
+}
+
+.content h2 {
+    font-size: 1rem;
+    border-left: 3px solid #0bb559;
+    padding: 0 1rem;
+    color: #e22607;
+}
+
+.content .content-task h3 {
+    color: #f00;
+    font-size: .8rem;
+    display: inline-block;
+    font-weight: normal;
+}
+
+.content .content-task {
+    font-size: .7rem;
+    line-height: 1rem;
+    color: #444;
+}
+
+.content .content-task .border-left {
+    border-left: 2px solid #0bb559;
+    padding-left:.4rem;
+    line-height: .9rem;
+}
+
+.content .content-task pre {
+    font-size:.6rem;
+    padding: .5rem .5rem;
+    overflow-x: auto;
+}
+
+.content .phone{
+    background-color: #4eb51d;
+    font-size:.8rem;
+    color: #fff;
+    line-height: 1.5rem;
+    padding:.4rem;
+}
+.content .phone i{
+    font-size:.6rem;
+    font-style: normal;
+    line-height: .8rem;
+    display: inline-block;
+    color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

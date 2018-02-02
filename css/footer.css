@@ -1,0 +1,52 @@
+.code{
+    text-align: center;
+}
+.code img{
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+}
+.footer-copyright span{
+    background-color: #aaa;
+    font-size: 0.6rem;
+    text-align: center;
+    line-height: 1.5rem;
+    margin-top: .5rem;
+    color: #333;
+    display: block;
+}
+.footer .footer-nav {
+    padding: .3rem 0;
+    margin-left: -.3rem;
+    width: 107%;
+    background-color: #666;
+    height: 1.5rem;
+
+}
+.footer .footer-phone{
+    padding: .5rem;
+    color:#333;
+    font-size:.7rem;
+    line-height: 1.6rem;
+    background-color: #fff;
+}
+.footer .footer-nav div{
+    float:left;
+    text-align:center;
+    width: 24%;
+    height: 1.5rem;
+    line-height: 1.5rem;
+}
+.footer .footer-nav div a{
+    display: inline-block;
+    width: 100%;
+    border-right:1px solid #fff;
+    color:#fff;
+    font-family:'微软雅黑';
+    font-size: .7rem;
+}
+.footer .footer-icp{
+    padding: .6rem 0;
+    font-size:.6rem;
+    text-align: center;
+}
